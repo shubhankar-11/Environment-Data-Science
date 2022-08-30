@@ -13,5 +13,5 @@ This Repository contains two Physical Science Data Analysis Project
 - Soil moisture is plotted against soil temperature which is on X-axis and then clustering algorithm is implemented. 
 -After clustering we find 4 distinct clusters. 1)High Temperature - Low moisture. 2)Moderate Temperature - Moderate moisture 
  3)High Temperature - High Moisture.   4)Low Temperature - High Moisture.
--Code is available in the C
+-Code is available in the [KMeans_Soil_Moisture.ipynb](KMeans_Soil_Moisture.ipynb) dataset.
 
